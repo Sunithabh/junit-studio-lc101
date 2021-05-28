@@ -91,4 +91,5 @@ public class BalancedBracketsTest {
     public void notSquareBracketsReturnTrue(){
         assertTrue(BalancedBrackets.hasBalancedBrackets("[[]]"));
     }
+
 }
